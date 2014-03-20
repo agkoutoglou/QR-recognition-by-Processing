@@ -1,0 +1,1 @@
+A study on the Processing language, to read the QR codes and to position an image (image.png) to the middle of it.
